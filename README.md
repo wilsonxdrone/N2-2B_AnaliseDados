@@ -7,8 +7,10 @@
 O objetivo desta atividade é a aplicação das técnicas de Ciência de Dados aprendidas na disciplina Eletiva II, a partir de um problema apoiado por um conjunto de dados (dataset) previamente escolhido pelo grupo. A atividade requer a realização de uma análise exploratória no dataset, contemplando as atividades de aquisição, processamento e apresentação dos dados.  
 Por fim, o projeto contempla a utilização de alguma técnica de Machine Learning para o treinamento de um modelo capaz de fazer predições sobre variáveis do dataset escolhido. A Figura 1 exemplifica o ciclo de vida que orienta as atividades a serem desenvolvidas.
 
-**Figura 1:** Ciclo de vida de um projeto em Ciência de Dados.
-
+![figura 1](https://github.com/Lucas-O-S/N2-2B_AnaliseDados/blob/main/img/Figura1.PNG)
+<p align="center">
+  Figura 1: Ciclo de vida de um projeto em Ciência de Dados.
+</p>
 
 ### 2 Regras
 
