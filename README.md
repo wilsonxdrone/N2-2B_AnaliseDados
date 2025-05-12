@@ -9,14 +9,12 @@ Por fim, o projeto contempla a utilização de alguma técnica de Machine Learni
 
 **Figura 1:** Ciclo de vida de um projeto em Ciência de Dados.
 
----
 
 ### 2 Regras
 
 - O tema do projeto é de livre escolha e deve ser levantado pelos integrantes do grupo.  
 - Os alunos devem elaborar uma apresentação de 10 min do projeto, mostrando os resultados obtidos. Todos os membros do grupo deverão estar presentes na data de sua apresentação no dia **07/06/2025** e enviar no Moodle o relatório (pode ser o Notebook) e a apresentação (slides).  
 
----
 
 ### 3 Orientações Gerais
 
